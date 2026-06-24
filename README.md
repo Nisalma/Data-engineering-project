@@ -15,12 +15,8 @@ To deliver reliable insights, this platform implements a formal data engineering
 
 The project artifacts are organized according to standard enterprise data science conventions:
 
-expernetic-data-challenge/: The root repository directory containing all project assets.
-*notebooks/: The directory dedicated to interactive code development.
-   tokyo_analysis.ipynb: The primary program script that programmatically executes data ingestion,     regex parsing, DuckDB star schema compilation, and the inferential statistical modeling suite.
-*rports/: The directory designated for documentation deliverables.
-   Final_Report.pdf: The comprehensive technical and strategic analysis report detailing the entire    engineering lifecycle, decision logs, data models, and business recommendations.
-*README.md: The system documentation file that outlines the repository architecture, data models, statistical findings, and the deployment reproducibility protocol.
+<img width="317" height="186" alt="image" src="https://github.com/user-attachments/assets/79087198-4aa5-4355-b335-a03def8de00d" />
+
 
 ## 3. Data Engineering and Dimensional Modeling
 
